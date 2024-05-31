@@ -1,1 +1,1 @@
-Insurance Porject regarding certain claims - Creatsing a dashboard to answer relevant questions and give insights into specific trends.
+Insurance Prtoject regarding certain insurance claims - Developing a problem statement, solution and creating a dashboard to answer relevant questions and give insights into specific data trends or behaviour.
